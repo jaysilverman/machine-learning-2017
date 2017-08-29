@@ -2,9 +2,9 @@
 
 This repository contains machine learning projects for the following data science competitions sponsored by Drivendata (https://www.drivendata.org/competitions):
 
-* (https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)[DengAI]
-* (https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/)[Predict Blood Donations]
-* (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)[Water Pump Failure]
+* DengAI (https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread)
+* Predict Blood Donations (https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations)
+* Water Pump Failure (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table)
 
 ## Usage
 Each project consists of one or more Jupyter notebooks (i.e. file with .ipynb suffix). These projects require that you have a Python 3.6 environment setup with the following packages:
