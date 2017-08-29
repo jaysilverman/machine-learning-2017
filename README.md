@@ -13,7 +13,7 @@ Each project consists of one or more Jupyter notebooks (i.e. file with .ipynb su
 	matplotlib
 	numpy
 	pandas
-	seaborn
 	scikit-learn
+	seaborn
 
 The easiest way to setup this environment is to install the Anaconda Python 3.6 distribution (https://www.anaconda.com/download). Anaconda already has the necessary packages pre-installed. After cloning this repository run the command "jupyter-notebook" from the newly created machine-learning-2017 directory. In the webpage which is automatically displayed in your web browser navigate to the project you wish to run and click on the Jupyter notebook.
