@@ -7,7 +7,7 @@ This repository contains machine learning projects for the following data scienc
 * Water Pump Failure (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table)
 
 ## Usage
-Each project consists of one or more Jupyter notebooks (i.e. file with .ipynb suffix). These projects require that you have a Python 3.6 environment setup with the following packages:
+These projects consist of one or more Jupyter notebooks. To run the notebooks you need to have a Python 3.6 environment setup with the following packages:
 
 	jupyter
 	matplotlib
@@ -16,4 +16,4 @@ Each project consists of one or more Jupyter notebooks (i.e. file with .ipynb su
 	scikit-learn
 	seaborn
 
-The easiest way to setup this environment is to install the Anaconda Python 3.6 distribution (https://www.anaconda.com/download). Anaconda already has the necessary packages pre-installed. After cloning this repository run the command "jupyter-notebook" from the newly created machine-learning-2017 directory. In the webpage which is automatically displayed in your web browser navigate to the project you wish to run and click on the Jupyter notebook.
+The easiest way to setup this environment is to install the Anaconda Python 3.6 distribution (https://www.anaconda.com/download). Anaconda already has the necessary packages pre-installed. After cloning this repository run the command "jupyter notebook" from the machine-learning-2017 directory. On the notebook dashboard which shows a list of subdirectories click on a project folder and select one of the Jupyter notebook files (i.e. file with .ipynb suffix). If you need help using the Jupyter notebook you can find documentation here (https://jupyter.readthedocs.io).
